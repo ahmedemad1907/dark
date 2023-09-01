@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.home{
+
+    width: 100%;
+   height: 100vh;
+   
+}
+
+.home .content{
+
+    width: 700px;
+    height: 500px;
+    background-image: url(../pics/istockphoto-1363614849-612x612.jpg);
+    background-size: cover;
+   
+}
+
+.home .content .nav{
+
+    height: 70px;
+
+    background-color: sandybrown
+}
+
+
+.home .content .nav button{
+
+font-size: 30px;
+    margin-left: 60px;
+    margin-top: 15px;
+    background-color: transparent;
+    border-color: transparent;
+    
+}
+
+.home .content .nav button a{
+    color: aliceblue;
+   
+
+    background-color: transparent;
+}
+
+
